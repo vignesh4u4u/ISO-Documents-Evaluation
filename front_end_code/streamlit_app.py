@@ -68,7 +68,6 @@ if files:
             "Full Filled": checkbox_label,
             "Evidence": evidence_text
         })
-
-    df = pd.DataFrame(results)
+    df = pd.DataFrame(results)    
     st.subheader("ATS Scores")
     st.table(df)
