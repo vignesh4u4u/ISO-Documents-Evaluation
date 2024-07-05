@@ -1,0 +1,5 @@
+https://developer.nvidia.com/cuda-10.0-download-archive
+
+https://developer.nvidia.com/cudnn-downloads
+
+vscode c++ installer
