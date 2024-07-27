@@ -12,3 +12,5 @@ https://developer.nvidia.com/cuda-downloads
 
 
 https://www.cherryservers.com/blog/install-cuda-ubuntu   
+
+https://ubuntu.com/server/docs/nvidia-drivers-installation
