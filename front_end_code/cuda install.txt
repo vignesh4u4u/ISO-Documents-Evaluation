@@ -8,3 +8,7 @@ vscode c++ installer
 https://developer.nvidia.com/rdp/cudnn-archive
 
 https://developer.nvidia.com/cuda-downloads
+
+
+
+https://www.cherryservers.com/blog/install-cuda-ubuntu   
